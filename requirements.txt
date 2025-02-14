@@ -1,0 +1,5 @@
+numpy>=1.21.0
+tqdm>=4.65.0
+nuscenes-devkit>=1.1.10
+torch>=1.10.0
+tensorboard>=2.10.0 

@@ -1,0 +1,6 @@
+checkpoints/
+logs/
+results/
+runs/
+wandb/
+data/
